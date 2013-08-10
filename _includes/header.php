@@ -9,7 +9,7 @@
 
 <!-- Begin Styles -->
 <link href="styles.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="/CSS_DropDown/menu_style.css" type="text/css" />
+<link rel="stylesheet" href="CSS_DropDown/menu_style.css" type="text/css" />
 <!-- End Styles -->
 
 <title>Comprehensive Revenue Solutions</title>
