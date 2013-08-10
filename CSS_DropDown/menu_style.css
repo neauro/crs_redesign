@@ -34,7 +34,8 @@
          -o-transition: background-color 0.1s linear;
             transition: background-color 0.1s linear;
 		}
-		.menu li a:hover, .menu ul li:hover a{
+		.menu li a:hover,
+    .menu ul li:hover a{
 			background: #2580a2 url("images/hover.gif") bottom center no-repeat;
 			color:#FFFFFF;
 			text-decoration:none;
