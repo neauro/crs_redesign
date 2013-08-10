@@ -17,7 +17,7 @@
 	.menu li{
 		float:left;
 		padding:0px;
-		}
+  }
 	.menu li a,
   .menu li span {
 		background:#333333 url("images/seperator.gif") bottom right no-repeat;
@@ -29,6 +29,10 @@
 		padding:0px 25px;
 		text-align:center;
 		text-decoration:none;
+    -webkit-transition: background-color 0.1s linear;
+       -moz-transition: background-color 0.1s linear;
+         -o-transition: background-color 0.1s linear;
+            transition: background-color 0.1s linear;
 		}
 		.menu li a:hover, .menu ul li:hover a{
 			background: #2580a2 url("images/hover.gif") bottom center no-repeat;
