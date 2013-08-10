@@ -5,6 +5,7 @@
 	font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
 	font-size:14px;
 	font-weight:bold;
+  min-width:750px;
 	}
 .menu ul{
 	background:#333333;
@@ -12,7 +13,6 @@
 	list-style:none;
 	margin:0;
 	padding:0;
-  min-width:750px;
 	}
 	.menu li{
 		float:left;
