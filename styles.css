@@ -33,6 +33,7 @@ p {
 article {
   max-width:830px;
   margin:0px auto;
+  margin-top:20px;
 }
 
 p.copyright {

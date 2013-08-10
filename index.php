@@ -18,10 +18,10 @@
 -->
 <div id="icons">
   <div class="menu-bit"><a href="emr.php"></a><p>Patient Record Management</p></a></div>
-  <div class="menu-bit middle"><a href="cashflow.php"></a><p>Cashflow</p></a></div>
+  <div class="menu-bit"><a href="cashflow.php"></a><p>Cashflow</p></a></div>
   <div class="menu-bit"><a href="coding.php"></a><p>Insurer Claims</p></a></div>
   <div class="menu-bit"><a href="payments.php"></a><p>Payments</p></a></div>
-  <div class="menu-bit middle"><a href="credentialling.php"></a><p>Government Regulation Compliance</p></a></div>
+  <div class="menu-bit"><a href="credentialling.php"></a><p>Government Regulation Compliance</p></a></div>
   <div class="menu-bit"><a href="analysis.php"></a><p>Practice Analysis</p></a></div>
 </div>
 
