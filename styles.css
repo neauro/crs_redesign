@@ -178,8 +178,16 @@ footer {
     line-height:11pt;
     padding:10px;
     width:100%;
+    opacity:0.1;
     box-sizing:border-box;
+    -webkit-transition: opacity 0.1s linear;
+       -moz-transition: opacity 0.1s linear;
+         -o-transition: opacity 0.1s linear;
+            transition: opacity 0.1s linear;
   }
+    .menu-overlay:hover {
+      opacity:1;
+    }
   #icons .menu-bit {
     position:relative;
     display:inline-block;
