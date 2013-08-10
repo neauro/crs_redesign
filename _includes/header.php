@@ -1,19 +1,11 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-
-<!-- Begin Meta -->
-<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0" />
-<!-- End Meta -->
-
-<!-- Begin Styles -->
-<link href="styles.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="CSS_DropDown/menu_style.css" type="text/css" />
-<!-- End Styles -->
-
-<title>Comprehensive Revenue Solutions</title>
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0" />
+  <link href="styles.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="stylesheet" href="CSS_DropDown/menu_style.css" type="text/css" />
+  <title>Comprehensive Revenue Solutions</title>
 </head>
 
 <body>
@@ -21,7 +13,10 @@
 <!-- Begin Page Wrapper -->
 <div id="page">
 
-<a href="/"><img src="_images/header.jpg" width="1031" height="98" alt="Welcome to CRS"/></a>
+  <div id="header">
+    <a href="/"><h1>Comprehensive<br/>Revenue<br/>Solutions</h1></a>
+    <!-- <img src="_images/header.jpg" alt="Welcome to CRS"/> -->
+  </div>
 
 	<div class="menu">
 		<ul>

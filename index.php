@@ -30,6 +30,6 @@
 
 <!-- End Article -->
 
-<?php include("_includes/sidebar.php"); ?>
+<?php # include("_includes/sidebar.php"); ?>
 </div>
 <?php include("_includes/footer.php"); ?>
