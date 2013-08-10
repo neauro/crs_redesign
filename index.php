@@ -17,12 +17,12 @@
         <a href="/credentialling.php"><ul><img src="_images/compliance_small.gif"/>  Confirm Compliance with New Government Regulations</ul></a>
     -->
     <div id="icons">
-      <div class="menu-bit"><a href="emr.php"></a><p>Patient Record Management</p></a></div>
-      <div class="menu-bit"><a href="cashflow.php"></a><p>Cashflow</p></a></div>
-      <div class="menu-bit"><a href="coding.php"></a><p>Insurer Claims</p></a></div>
-      <div class="menu-bit"><a href="payments.php"></a><p>Payments</p></a></div>
-      <div class="menu-bit"><a href="credentialling.php"></a><p>Government Regulation Compliance</p></a></div>
-      <div class="menu-bit"><a href="analysis.php"></a><p>Practice Analysis</p></a></div>
+      <div class="menu-bit"><a href="emr.php"><div class="menu-overlay">Information about patient record management</div></a><p>Patient Record Management</p></a></div>
+      <div class="menu-bit"><a href="cashflow.php"><div class="menu-overlay">Information about cashflow</div></a><p>Cashflow</p></a></div>
+      <div class="menu-bit"><a href="coding.php"><div class="menu-overlay">Insurer claims information</div></a><p>Insurer Claims</p></a></div>
+      <div class="menu-bit"><a href="payments.php"><div class="menu-overlay">payments information</div></a><p>Payments</p></a></div>
+      <div class="menu-bit"><a href="credentialling.php"><div class="menu-overlay">government regulation compliance information</div></a><p>Government Regulation Compliance</p></a></div>
+      <div class="menu-bit"><a href="analysis.php"><div class="menu-overlay">practice analysis information</div></a><p>Practice Analysis</p></a></div>
     </div>
 
 
