@@ -17,7 +17,8 @@
 		float:left;
 		padding:0px;
 		}
-	.menu li a{
+	.menu li a,
+  .menu li span {
 		background:#333333 url("images/seperator.gif") bottom right no-repeat;
 		color:#cccccc;
 		display:block;

@@ -20,8 +20,8 @@
 
 	<div class="menu">
 		<ul>
-			<li><a href="/" >Home</a></li>
-			<li><a href="/CSS_DropDown/" id="current">Services</a>
+			<li><a href="/index.php" >Home</a></li>
+			<li><span>Services</span>
 				<ul>
 					<li><a href="/emr.php">EMR / EHR</a></li>
 					<li><a href="/cashflow.php">Practice Analysis</a></li>
@@ -32,7 +32,7 @@
 					<li><a href="/construction.php">FAQ</a></li>
 			   </ul>
 		  </li>
-			<li><a href="#">About Us</a>
+			<li><span>About Us</span>
               <ul>
                 <li><a href="/construction.php">Credentials</a></li>
                 <li><a href="/construction.php">Testimonials</a></li>
