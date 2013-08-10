@@ -1,4 +1,5 @@
-crs_redesign
+CRS Site Redesign
 ============
 
-HCDE 537 Project
+HCDE 537 Project. Redesign of http://www.comprehensiverevenuesolutions.com.
+
