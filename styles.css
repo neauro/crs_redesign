@@ -30,6 +30,11 @@ p {
 	line-height: 24px;
 }
 
+article {
+  max-width:830px;
+  margin:0px auto;
+}
+
 p.copyright {
 	font-size: 12px;
 }
@@ -97,11 +102,6 @@ nav ul li {
 div#middle {
 	overflow: hidden;
 }
-
-	article {
-		width: 620px;
-		float: left;
-	}
 	
 	#headshot {
 		float: right;
@@ -161,3 +161,32 @@ footer {
 		}
 	
 }
+
+#icons {
+  margin:0px auto;
+  margin-top:20px;
+
+}
+  #icons .menu-bit {
+    display:inline-block;
+    width:260px;
+    margin-bottom:10px;
+    min-height:210px;
+  }
+    .menu-bit.middle {
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    .menu-bit a {
+      width:260px;
+      display:block;
+      background-color:#ccc;
+      height:150px;
+    }
+      a:hover {
+        cursor:pointer;
+      }
+    .menu-bit p {
+      margin:0px auto;
+      font-size:12pt;
+    }
