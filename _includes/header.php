@@ -34,12 +34,13 @@
 		  </li>
 			<li><span>About Us</span>
               <ul>
-                <li><a href="/construction.php">Credentials</a></li>
-                <li><a href="/construction.php">Testimonials</a></li>
-                <li><a href="/construction.php">Location</a></li>
-                <li><a href="/construction.php">Tanya's Experience</a></li>
+                <li><a href="/credentials
+.php">Credentials</a></li>
+                <li><a href="/testimonials.php">Testimonials</a></li>
+                <li><a href="/location.php">Location</a></li>
+                <li><a href="/experience.php">Tanya's Experience</a></li>
               </ul>
           </li>
-			<li><a href="/construction.php">Contact Us</a></li>
+			<li><a href="/contact.php">Contact Us</a></li>
 		</ul>
 	</div>
