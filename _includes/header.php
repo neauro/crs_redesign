@@ -29,7 +29,7 @@
 					<li><a href="/payments.php">Billing Services</a></li>
 					<li><a href="/credentialling.php">Credentialling</a></li>
 					<li><a href="/credentialling.php">Compliance</a></li>
-					<li><a href="/construction.php">FAQ</a></li>
+					<li><a href="/faq.php">FAQ</a></li>
 			   </ul>
 		  </li>
 			<li><span>About Us</span>
