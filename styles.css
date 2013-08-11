@@ -216,6 +216,9 @@ footer {
     min-height:210px;
   }
     .menu-bit a {
+      color:#646464;
+    }
+    .menu-bit a.box {
       width:260px;
       display:block;
       background-color:#ccc;
