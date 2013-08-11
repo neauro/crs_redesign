@@ -38,6 +38,7 @@ article {
 
 p.copyright {
 	font-size: 12px;
+  float:right;
 }
 
 h2 {
@@ -139,8 +140,24 @@ div#middle {
 
 
 footer {
-	border-top: 1px solid #000;
+  max-width:940px;
+  margin:0px auto;
+  text-align:right;
 }
+  footer ul {
+    margin:0px auto;
+    width:300px;
+    margin-top:0.5rem;
+    font-size:80%;
+  }
+  footer ul li {
+    display:inline-block;
+    margin-left:1rem;
+    margin-right:1rem;
+  }
+  footer a:link {
+    color:#777;
+  }
 
 /* Desktop &amp; Mobile Screens Set to 1024 x 768 or Below  */
 @media screen and (max-width: 1024px) {
@@ -170,7 +187,7 @@ footer {
   .menu-overlay {
     background-color:rgba(0,0,0,0.2);
     position:absolute;
-    top:0;
+    top:-20px;
     height:150px;
     right:0;
     color:#000;
@@ -178,15 +195,16 @@ footer {
     line-height:11pt;
     padding:10px;
     width:100%;
-    opacity:0.1;
+    opacity:0;
     box-sizing:border-box;
-    -webkit-transition: opacity 0.1s linear;
-       -moz-transition: opacity 0.1s linear;
-         -o-transition: opacity 0.1s linear;
-            transition: opacity 0.1s linear;
+    -webkit-transition: opacity 0.1s linear, top 0.1s linear;
+       -moz-transition: opacity 0.1s linear, top 0.1s linear;
+         -o-transition: opacity 0.1s linear, top 0.1s linear;
+            transition: opacity 0.1s linear, top 0.1s linear;
   }
     .menu-overlay:hover {
       opacity:1;
+      top:0;
     }
   #icons .menu-bit {
     position:relative;
@@ -209,4 +227,17 @@ footer {
     .menu-bit p {
       margin:0px auto;
       font-size:12pt;
+    }
+
+#footer-desc {
+  background-color:#ccc;
+  padding:10px;
+  box-sizing:border-box;
+}
+  #footer-desc ul {
+    margin-left:2rem;
+    margin-top:0;
+  }
+    #footer-desc ul li {
+      list-style-type:none;
     }
