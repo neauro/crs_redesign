@@ -267,6 +267,10 @@ footer {
   padding:10px;
   box-sizing:border-box;
 }
+  #footer-desc .contents {
+    padding-left:3rem;
+    padding-right:1rem;
+  }
   #footer-desc ul {
     margin-left:2rem;
     margin-top:0;
