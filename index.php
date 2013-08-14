@@ -7,14 +7,39 @@
   <article>
   <h1>I want help with...</h1>
     <div id="icons">
-      <div class="menu-bit"><a href="payments.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Collecting on insurer claims</p></div></a></div>
-      <div class="menu-bit"><a href="coding.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Outstanding patient balances</p></div></a></div>
-      <div class="menu-bit"><a href="cashflow.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Noting past-due payments</p></div></a></div>
-      <div class="menu-bit"><a href="documents.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Converting to Electronic Documents</p></div></a></div>
-      <div class="menu-bit"><a href="emr.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Finding a Records System</p></div></a></div>
-      <div class="menu-bit"><a href="compliance.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Complying with Regulations</p></div></a></div>
-      <div class="menu-bit"><a href="credentialling.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Auditing Services</p></div></a></div>
-      <div class="menu-bit"><a href="contact.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Talking to the Right Person</p></div></a></div>
+
+      <div class="menu-bit">
+        <a href="payments.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Collecting on insurer claims</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="coding.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Outstanding patient balances</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="cashflow.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Noting past-due payments</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="documents.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Converting to Electronic Documents</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="emr.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Finding a Records System</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="compliance.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Complying with Regulations</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="credentialling.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Auditing Services</p></div></a>
+      </div>
+
+      <div class="menu-bit">
+        <a href="contact.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Talking to the Right Person</p></div></a>
+      </div>
+
     </div>
   </article>
 
