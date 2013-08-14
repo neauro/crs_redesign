@@ -231,9 +231,9 @@ footer {
   #icons .menu-bit {
     position:relative;
     display:inline-block;
-    width:260px;
-    margin-left: 5px;
-    margin-right: 5px;
+    width: 24%;
+    margin-left: 0.5%;
+    margin-right: 0%;
     margin-bottom:10px;
     min-height:180px;
   }
