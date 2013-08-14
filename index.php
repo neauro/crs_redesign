@@ -17,12 +17,12 @@
         <a href="/credentialling.php"><ul><img src="_images/compliance_small.gif"/>  Confirm Compliance with New Government Regulations</ul></a>
     -->
     <div id="icons">
-      <div class="menu-bit"><a href="emr.php" class="box"><div class="menu-overlay">Information about patient record management</div></a><a href="emr.php"><p>Patient Record Management</p></a></div>
-      <div class="menu-bit"><a href="cashflow.php" class="box"><div class="menu-overlay">Information about cashflow</div></a><a href="cashflow.php"><p>Cashflow</p></a></div>
-      <div class="menu-bit"><a href="coding.php" class="box"><div class="menu-overlay">Insurer claims information</div></a><a href="coding.php"><p>Insurer Claims</p></a></div>
-      <div class="menu-bit"><a href="payments.php" class="box"><div class="menu-overlay">payments information</div></a><a href="payments.php"><p>Payments</p></a></div>
-      <div class="menu-bit"><a href="credentialling.php" class="box"><div class="menu-overlay">government regulation compliance information</div></a><a href="credentialling.pgp"><p>Government Regulation Compliance</p></a></div>
-      <div class="menu-bit"><a href="analysis.php" class="box"><div class="menu-overlay">practice analysis information</div></a><a href="analysis.php"><p>Practice Analysis</p></a></div>
+      <div class="menu-bit"><a href="emr.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">Information about patient record management</div></a><a href="emr.php"><p>Patient Record Management</p></a></div>
+      <div class="menu-bit"><a href="cashflow.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">Information about cashflow</div></a><a href="cashflow.php"><p>Cashflow</p></a></div>
+      <div class="menu-bit"><a href="coding.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">Insurer claims information</div></a><a href="coding.php"><p>Insurer Claims</p></a></div>
+      <div class="menu-bit"><a href="payments.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">payments information</div></a><a href="payments.php"><p>Payments</p></a></div>
+      <div class="menu-bit"><a href="credentialling.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">government regulation compliance information</div></a><a href="credentialling.pgp"><p>Government Regulation Compliance</p></a></div>
+      <div class="menu-bit"><a href="analysis.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay">practice analysis information</div></a><a href="analysis.php"><p>Practice Analysis</p></a></div>
     </div>
   </article>
 

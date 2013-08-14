@@ -72,12 +72,28 @@ img, embed, object, video, iframe {
 #header {
   background-color:#4971a4;
   padding:15px;
+  position:relative;
 }
   #header a {
     color:#fff;
     text-decoration:none;
     line-height:31px;
   }
+  #contact-header {
+    position:absolute;
+    top:1rem;
+    right:1rem;
+    color:#fff;
+    font-size:90%;
+  }
+    #contact-header ul,
+    #contact-header p {
+      margin:0;
+    }
+    #header ul li {
+      display:inline-block;
+      list-style-type:none;
+    }
 
 nav {
 	overflow: hidden;
