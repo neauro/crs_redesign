@@ -1,7 +1,10 @@
 @charset "UTF-8";
 /* Color Palette
 
-Purple: http://slayeroffice.com/tools/color_palette/?hex=39275B
+blue: #6a97cf
+dark gray: #797979
+light gray: #cccccb
+green: #296431
 
 */
 
@@ -9,7 +12,6 @@ Purple: http://slayeroffice.com/tools/color_palette/?hex=39275B
 
 body {
   margin:0;
-  background-color:blue;
 	font-family: "Helvetica", "Arial", sans-serif;
   background-image: url('_images/blue_circles.jpg');
   background-size:cover;
@@ -45,6 +47,7 @@ article {
 p.copyright {
 	font-size: 12px;
   float:right;
+  color:#797979;
 }
 
 h2 {
@@ -76,7 +79,7 @@ img, embed, object, video, iframe {
 }
 
 #header {
-  background-color:#4971a4;
+  background-color:#6a97cf;
   padding:15px;
   position:relative;
   padding-right:1rem;
@@ -87,7 +90,7 @@ img, embed, object, video, iframe {
     line-height:2rem;
   }
   #header .contents {
-    padding-left:3rem;
+    padding-left:5rem;
   }
   #contact-header {
     position:absolute;
@@ -184,8 +187,27 @@ footer {
     margin-left:1rem;
     margin-right:1rem;
   }
-  footer a:link {
-    color:#777;
+  footer a:link,
+  footer a:visited {
+    color:#797979;
+    text-decoration:none;
+    -webkit-transition: color 0.1s linear;
+       -moz-transition: color 0.1s linear;
+         -o-transition: color 0.1s linear;
+            transition: color 0.1s linear;
+  }
+    footer a:hover {
+      color:#cccccb;
+    }
+#footer-desc footer {
+  width:360px;
+}
+  #footer-desc footer li {
+    margin-left: 2rem;
+    margin-right: 1rem;
+  }
+  #footer-desc footer a:hover {
+    color:#fff;
   }
 
 #icons {
@@ -249,7 +271,7 @@ footer {
       }
 
 #footer-desc {
-  background-color:#ccc;
+  background-color:#cccccb;
   padding:10px;
   box-sizing:border-box;
 }
@@ -280,7 +302,7 @@ footer {
 	list-style:none;
 	margin:0;
   padding:0;
-  padding-left:3rem;
+  padding-left:5rem;
 }
 	.menu li {
 		float:left;
@@ -366,6 +388,34 @@ footer {
     line-height:26pt;
   }
 }
+
+#pretty {
+  margin-top:2rem;
+  margin-bottom:2rem;
+}
+.pretty-bit {
+  width:24%;
+  display:inline-block;
+  margin-bottom:1rem;
+  min-height:100px;
+  vertical-align:top;
+}
+  .pretty-bit h2 {
+    text-align:center;
+    font-size:13pt;
+    text-transform:uppercase;
+  }
+  .pretty-bit hr {
+    border:0;
+    border-top:5px solid #797979;
+    width:50%;
+    margin-top:1rem;
+  }
+  .pretty-bit p {
+    width:75%;
+    margin:0px auto;
+    text-align:center;
+  }
 
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
 @media screen and (max-width: 600px) {
