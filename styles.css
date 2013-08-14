@@ -104,6 +104,9 @@ img, embed, object, video, iframe {
       display:inline-block;
       list-style-type:none;
     }
+    #header h1 {
+      text-shadow: 1px 1px 1px #222;
+    }
 
 nav {
 	overflow: hidden;
