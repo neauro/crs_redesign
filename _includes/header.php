@@ -14,15 +14,17 @@
 <div id="page">
 
   <div id="header">
-    <a href="/"><h1>Comprehensive<br/>Revenue<br/>Solutions</h1></a>
-    <div id="contact-header">
-      <p>
-        Contact us to schedule a free on-site consultation.
-      </p>
-      <ul>
-        <li><strong>Call: </strong> <a href="">(888) 888-8888</a></li>
-        <li><strong>Email: </strong> <a href="">trichards@comprevenuesolutions.com</a></li>
-      </ul>
+    <div class="contents">
+      <a href="/"><h1>Comprehensive<br/>Revenue<br/>Solutions</h1></a>
+      <div id="contact-header">
+        <p>
+          Contact us to schedule a free on-site consultation.
+        </p>
+        <ul>
+          <li><strong>Call: </strong> <a href="">(888) 888-8888</a></li>
+          <li><strong>Email: </strong> <a href="">trichards@comprevenuesolutions.com</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 

@@ -9,15 +9,15 @@
     <div id="icons">
 
       <div class="menu-bit">
-        <a href="payments.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Collecting on insurer claims</p></div></a>
+        <a href="payments.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Collecting on Insurer Claims</p></div></a>
       </div>
 
       <div class="menu-bit">
-        <a href="coding.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Outstanding patient balances</p></div></a>
+        <a href="coding.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Outstanding Patient Balances</p></div></a>
       </div>
 
       <div class="menu-bit">
-        <a href="cashflow.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Noting past-due payments</p></div></a>
+        <a href="cashflow.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Noting Past-due Payments</p></div></a>
       </div>
 
       <div class="menu-bit">
