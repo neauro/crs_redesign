@@ -360,6 +360,12 @@ footer {
   #icons .menu-bit {
     width:48%;
   }
+  #icons {
+    width:90%;
+  }
+  .menu-overlay p {
+    line-height:26pt;
+  }
 }
 
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
