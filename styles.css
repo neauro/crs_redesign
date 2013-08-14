@@ -31,7 +31,7 @@ p {
 }
 
 article {
-  max-width:940px;
+  max-width:1100px;
   margin:0px auto;
   margin-top: 3rem;
   margin-bottom: 4rem;
@@ -184,27 +184,6 @@ footer {
     color:#777;
   }
 
-/* Desktop &amp; Mobile Screens Set to 1024 x 768 or Below  */
-@media screen and (max-width: 1024px) {
-	article {
-		width: 65.95%; /* 620px / 940px */
-	}
-	
-	aside {
-		width: 31.91%
-	}
-}
-
-/* Desktop &amp; Mobile Screens Set to a Width of 600px or Below */
-@media screen and (max-width: 600px) {
-	
-	article, aside {
-		float: none;
-		width: auto;	
-		}
-	
-}
-
 #icons {
   margin:0px auto;
   margin-top:40px;
@@ -244,6 +223,7 @@ footer {
     position:relative;
     display:inline-block;
     width: 24%;
+    min-width:250px;
     margin-left: 0.5%;
     margin-right: 0%;
     margin-bottom:0%;
@@ -366,3 +346,25 @@ footer {
 	.menu p {
 		clear:left;
 		}	
+
+/**** RWD ****/
+/* Desktop & Mobile Screens Set to 1024 x 768 or Below  */
+@media screen and (max-width: 1030px) {
+  #icons .menu-bit {
+    width:48%;
+  }
+}
+
+/* Desktop & Mobile Screens Set to a Width of 600px or Below */
+@media screen and (max-width: 600px) {
+  #icons .menu-bit {
+    width:100%;
+  }
+  .menu-overlay p {
+    font-size:23pt;
+  }
+    .menu-overlay:hover {
+      opacity:1;
+      top:0;
+    }
+}
