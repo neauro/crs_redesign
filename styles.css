@@ -36,11 +36,12 @@ article {
   margin:0px auto;
   width:95%;
   margin-top: 3rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
   article h1 {
     margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: -1rem;
+    font-weight:300;
     margin-left:2rem;
     color:#fff;
     text-shadow:-1px -1px 1px #222;
@@ -80,7 +81,7 @@ img, embed, object, video, iframe {
 
 #header {
   background-color:#6a97cf;
-  padding:15px;
+  padding:1px;
   position:relative;
   padding-right:1rem;
 }
@@ -253,7 +254,7 @@ footer {
     margin-left: 0.5%;
     margin-right: 0%;
     margin-bottom:0%;
-    min-height:220px;
+    min-height:150px;
     border-top:1px solid rgba(123, 153, 190, 0.7);
     border-left:1px solid rgba(123, 153, 190, 0.7);
     -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
@@ -300,7 +301,7 @@ footer {
       width:100%;
       display:block;
       background-color:#ccc;
-      height:220px;
+      height:150px;
       background-size:cover;
       -webkit-transition: opacity 0.2s linear;
          -moz-transition: opacity 0.2s linear;
