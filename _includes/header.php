@@ -5,6 +5,7 @@
   <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0" />
   <link href="styles.css" rel="stylesheet" type="text/css" media="all" />
   <link rel="stylesheet" href="CSS_DropDown/menu_style.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
   <title>Comprehensive Revenue Solutions</title>
 </head>
 
@@ -30,7 +31,7 @@
 <div class="menu">
   <ul>
     <li><a href="/index.php" >Home</a></li>
-    <li><span>Services</span>
+    <li><span>Our Services</span>
       <ul>
         <li><a href="/emr.php">EMR / EHR</a></li>
         <li><a href="/cashflow.php">Practice Analysis</a></li>

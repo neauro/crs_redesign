@@ -11,8 +11,8 @@ green: #296431
 * { padding: 0; }
 
 body {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
   margin:0;
-	font-family: "Helvetica", "Arial", sans-serif;
   background-image: url('_images/blue_circles.jpg');
   background-size:cover;
 	font-size: 100%;
@@ -229,7 +229,8 @@ footer {
     margin-right: 1rem;
   }
   #footer-desc footer a:hover {
-    color:#fff;
+    text-decoration:underline;
+    color:#797979;
   }
 
 #icons {
@@ -264,6 +265,9 @@ footer {
            -o-transition: opacity 0.1s linear, top 0.1s linear;
               transition: opacity 0.1s linear, top 0.1s linear;
     }
+    .menu-overlay:hover {
+      background-color: rgba(74, 119, 177, 0.9);
+    }
     .menu-overlay:hover p {
       opacity:0;
       top:-20px;
@@ -295,21 +299,25 @@ footer {
       text-shadow: -1px -1px 1px #222;
       opacity:0;
       position:absolute;
-      top:1rem;
+      top:0.5rem;
       text-align:center;
       font-size:23pt;
+      line-height: 22pt;
     }
     .menu-bit p.see-more {
       position:absolute;
       bottom:-20px;
       background-color:rgba(0,0,0,0.2);
       text-align:center;
-      font-size:14pt;
+      font-size:11pt;
       font-weight:300;
-      height:60px;
-      padding-top:10px;
+      height:40px;
       box-sizing:border-box;
       opacity:0;
+    }
+    .menu-bit:hover {
+      -webkit-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+              box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
     }
     .menu-bit:hover p.title,
     .menu-bit:hover p.see-more {
