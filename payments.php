@@ -1,10 +1,32 @@
 <?php include("_includes/header.php"); ?>
 
 <div id="middle">
-  <article>
 
-  <?php include("_includes/header_in.php"); ?>
-      
+
+<div class="servicesMenu">
+  <div class="menuItem">
+    <img src="_images/billingMenu.png"/>
+  </div> 
+  <div class="menuItemActive">
+    <img src="_images/patientMenu.png"/>
+  </div> 
+  <div class="menuItem">
+    <img src="_images/cashFlowMenu.png"/>
+  </div>
+  <div class="menuItem">
+    <img src="_images/docMntMenu.png"/>
+  </div>
+  <div class="menuItem">
+    <img src="_images/emrMenu.png"/>
+  </div>
+  <div class="menuItem">
+    <img src="_images/auditingMenu.png"/>
+  </div>
+  <div class="menuItem">
+    <img src="_images/credentialingMenu.png"/>
+  </div>
+
+</div>  
   <h2>More Payment Options More Revenue</h2>
   <p><i>“Physicians typically collect only about 50% of outstanding patient balances, resulting in almost $60 billion in bad debt annually.”</i>  McKinsey & Company</p>
 
@@ -24,7 +46,7 @@
       <li><img src="_images/bullet.jpg"/>  Both HIPAA and PCI Compliant</li>
       </ul>
 
-  </article>
+ 
 </div>
 
 <?php include("_includes/footer.php"); ?>
