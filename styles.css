@@ -260,6 +260,14 @@ footer {
             box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
     margin-bottom:5px;
   }
+    .menu-bit p {
+      pointer-events:none;
+      width:100%;
+      -webkit-transition: opacity 0.1s linear, top 0.1s linear;
+         -moz-transition: opacity 0.1s linear, top 0.1s linear;
+           -o-transition: opacity 0.1s linear, top 0.1s linear;
+              transition: opacity 0.1s linear, top 0.1s linear;
+    }
     .menu-bit p.title {
       width:100%;
       text-shadow: -1px -1px 1px #222;
@@ -269,8 +277,20 @@ footer {
       text-align:center;
       font-size:23pt;
     }
-    .menu-bit:hover p.title {
-      pointer-events:none;
+    .menu-bit p.see-more {
+      position:absolute;
+      bottom:-20px;
+      background-color:rgba(0,0,0,0.2);
+      text-align:center;
+      font-size:14pt;
+      font-weight:300;
+      height:60px;
+      padding-top:10px;
+      box-sizing:border-box;
+      opacity:0;
+    }
+    .menu-bit:hover p.title,
+    .menu-bit:hover p.see-more {
       opacity:1;
     }
     .menu-bit a {
@@ -297,6 +317,7 @@ footer {
 #footer-desc {
   background-color:#cccccb;
   padding:10px;
+  color:#222;
   box-sizing:border-box;
 }
   #footer-desc .contents {
