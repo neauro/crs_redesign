@@ -33,12 +33,12 @@
       </div>
 
       <div class="menu-bit">
-        <a href="compliance.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Complying with Regulations</p></div></a><p class="title">Auditing</p><p class="see-more">See more &raquo;</p>
+        <a href="compliance.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Complying with Regulations</p></div></a><p class="title">Auditing Services</p><p class="see-more">See more &raquo;</p>
 
       </div>
 
       <div class="menu-bit">
-        <a href="credentialling.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Auditing Services</p></div></a><p class="title">Credentialing</p><p class="see-more">See more &raquo;</p>
+        <a href="credentialling.php" class="box" style="background-image: url('_images/claims_icon.png');"><div class="menu-overlay"><p>Processing Credentials</p></div></a><p class="title">Credentialing Services</p><p class="see-more">See more &raquo;</p>
 
       </div>
 

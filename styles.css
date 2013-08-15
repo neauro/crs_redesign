@@ -13,14 +13,18 @@ green: #296431
 body {
   font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
   margin:0;
-  background-image: url('_images/blue_circles.jpg');
-  background-size:cover;
+  background-image: url('_images/crossed_stripes.png');
 	font-size: 100%;
 	line-height: 150%;
 	color: #fff;
 }
 
 
+h1,
+h2 {
+  font-family: "Century Gothic";
+  font-weight:lighter;
+}
 h1 {
 	font-size: 2.25em;
 	margin-top: 20px; 
@@ -42,7 +46,6 @@ article {
     margin-top: 3rem;
     margin-bottom: -1rem;
     font-weight:300;
-    margin-left:2rem;
     color:#fff;
     text-shadow:-1px -1px 1px #222;
   }
@@ -249,7 +252,6 @@ footer {
     box-sizing:border-box;
   }
     .menu-overlay p {
-      text-align: center;
       font-size: 16pt;
       color: #FFF;
       line-height: 17pt;
@@ -257,9 +259,6 @@ footer {
       height:50px;
       width:100%;
       text-shadow: -1px -1px 1px #222;
-      margin: auto;
-      position: absolute;
-      top: 0; left: 0; bottom: 0; right: 0;
       -webkit-transition: opacity 0.1s linear, top 0.1s linear;
          -moz-transition: opacity 0.1s linear, top 0.1s linear;
            -o-transition: opacity 0.1s linear, top 0.1s linear;
@@ -295,12 +294,13 @@ footer {
               transition: opacity 0.1s linear, top 0.1s linear;
     }
     .menu-bit p.title {
+      font-family: "Century Gothic";
       width:100%;
       text-shadow: -1px -1px 1px #222;
       opacity:0;
       position:absolute;
-      top:0.5rem;
-      text-align:center;
+      margin-left:5px;
+      top:0.1rem;
       font-size:23pt;
       line-height: 22pt;
     }
