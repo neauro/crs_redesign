@@ -18,11 +18,11 @@
     <a href="/"><h1>Comprehensive Revenue Solutions</h1></a>
     <div id="contact-header">
       <p>
-        Contact us to schedule a free on-site consultation.
+        Schedule a free on-site consultation.
       </p>
       <ul>
-        <li><strong>Call: </strong> <a href="">(888) 888-8888</a></li>
-        <li><strong>Email: </strong> <a href="">trichards@comprevenuesolutions.com</a></li>
+        <li><img src="_images/telephone.png" alt="Call us at this phone number: "/> <a href="">(888) 888-8888</a></li>
+        <li><img src="_images/envelope.png" alt="Or e-mail us at:"/>Email: <a href="">trichards@comprevenuesolutions.com</a></li>
       </ul>
     </div>
   </div>
