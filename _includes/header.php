@@ -15,14 +15,14 @@
 <div id="header">
   <div class="contents">
     <!-- <a href="/"><h1>Comprehensive<br/>Revenue<br/>Solutions</h1></a> -->
-    <a href="/"><h1>Comprehensive Revenue Solutions</h1></a>
+    <a href="/"><h1><span>Comprehensive </span><span>Revenue Solutions</span></h1></a>
     <div id="contact-header">
       <p>
         Schedule a free on-site consultation.
       </p>
       <ul>
-        <li><img src="_images/telephone.png" alt="Call us at this phone number: "/> <a href="">(888) 888-8888</a></li>
-        <li><img src="_images/envelope.png" alt="Or e-mail us at:"/>Email: <a href="">trichards@comprevenuesolutions.com</a></li>
+        <li><a href=""><img src="_images/telephone.png" alt="Call us at this phone number: "/> (888) 888-8888</a></li>
+        <li><a href=""><img id="envelope" src="_images/envelope.png" alt="Or e-mail us at:"/>trichards@comprevenuesolutions.com</a></li>
       </ul>
     </div>
   </div>

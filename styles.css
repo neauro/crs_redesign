@@ -113,6 +113,14 @@ img, embed, object, video, iframe {
       display:inline-block;
       list-style-type:none;
     }
+      #header ul li img {
+        position:relative;
+        top:2px;
+        margin-right:5px;
+      }
+        #envelope {
+          margin-left:1rem;
+        }
     #header h1 {
       text-shadow: 1px 1px 1px #222;
     }
@@ -512,5 +520,28 @@ footer {
     .menu-overlay:hover {
       opacity:1;
       top:0;
+    }
+}
+
+@media screen (min-width: 705px) and (max-width: 1150px) {
+  #header h1 span,
+  #header ul li {
+    display:block;
+  }
+  #envelope {
+    margin-left:0;
+  }
+  #header ul li a {
+    line-height:1rem;
+  }
+}
+
+@media screen and (max-width: 705px) {
+  #contact-header {
+    position:static;
+    margin-top:1rem;
+  }
+    #contact-header p {
+      font-size:18px;
     }
 }
