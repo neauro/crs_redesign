@@ -5,7 +5,7 @@
 <!-- Begin Article -->
 <div id="middle">
   <article>
-  <h1>I want help with...</h1>
+  <h1>What can we help you with?</h1>
     <div id="icons">
 
       <div class="menu-bit">
@@ -71,22 +71,18 @@
       <div id="pretty">
         <div class="pretty-bit">
           <h2>Service</h2>
-          <hr/>
           <p>Client service is out number one priority.</p>
         </div>
         <div class="pretty-bit">
           <h2>People</h2>
-          <hr/>
           <p>Our people and teams are empowered to drive our innovation and success.</p>
         </div>
         <div class="pretty-bit">
           <h2>Integrity</h2>
-          <hr/>
           <p>We honor our commitments and hold ourselves to the highest ethical practices.</p>
         </div>
         <div class="pretty-bit">
           <h2>Entrepreneurship</h2>
-          <hr/>
           <p>We accept accountability and remain completely comitted to results.</p>
         </div>
       </div>
