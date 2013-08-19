@@ -299,17 +299,23 @@ footer {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     position:relative;
-    padding-bottom: 20%;
     float: left;
     height: 0;
-    width: 20%;
     border-top:1px solid rgba(194, 217, 245, 0.7);
     border-left:1px solid rgba(194, 217, 245, 0.7);
     -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
             box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
     margin-bottom:2%;
+    /* 
+    width: 20%;
+    padding-bottom: 20%;
     margin-right:2%;
-    margin-left:2%;
+    margin-left:2%; 
+     */
+    width: 13%;
+    padding-bottom: 13%;
+    margin-right:6%;
+    margin-left:5%; 
   }
     .menu-bit:hover {
       border-top:1px solid rgba(194, 217, 245, 0.5) !important;
