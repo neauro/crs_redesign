@@ -39,11 +39,11 @@ p {
 article {
   margin:0px auto;
   width:95%;
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 2rem;
 }
   article h1 {
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: -1rem;
     font-weight:300;
     color:#222;
@@ -123,6 +123,9 @@ img, embed, object, video, iframe {
     #header h1,
     #header h2 {
       text-shadow: 1px 1px 1px #222;
+      font-size: 22pt;
+      line-height: 21pt;
+      margin-top: 0.3rem;
     }
     #header h2 {
       font-size: 17px;
@@ -258,7 +261,6 @@ footer {
   margin-top:40px;
   width:940px;
   overflow:hidden;
-  border:1px solid red;
 }
   .menu-overlay {
     background-color: rgba(114, 165, 216, 0.9);
@@ -338,6 +340,7 @@ footer {
     }
     .menu-bit p.see-more {
       position:absolute;
+      left:0;
       top:10px;
       text-align:center;
       font-size:11pt;
@@ -479,20 +482,6 @@ footer {
 		clear:left;
 		}	
 
-/**** RWD ****/
-/* Desktop & Mobile Screens Set to 1024 x 768 or Below  */
-@media screen and (max-width: 1030px) {
-  #icons .menu-bit {
-    width:48%;
-  }
-  #icons {
-    width:90%;
-  }
-  .menu-overlay p {
-    line-height:26pt;
-  }
-}
-
 #pretty {
   margin-top:2rem;
   margin-bottom:2rem;
@@ -524,6 +513,17 @@ footer {
     text-align:left;
   }
 
+/**** RWD ****/
+/* Desktop & Mobile Screens Set to 1024 x 768 or Below  */
+@media screen and (max-width: 1030px) {
+  #icons {
+    width:90%;
+  }
+  .menu-overlay p {
+    line-height:26pt;
+  }
+}
+
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
 @media screen and (max-width: 600px) {
   #icons .menu-bit {
@@ -549,6 +549,15 @@ footer {
   #header ul li a {
     line-height:1rem;
   }
+  .menu-bit p {
+    line-height:16pt;
+    font-size:13pt;
+  }
+  .menu-bit p.title {
+    font-size:12pt;
+    line-height:14pt;
+    top:2.5rem;
+  }
 }
 
 @media screen and (max-width: 705px) {
@@ -559,4 +568,24 @@ footer {
     #contact-header p {
       font-size:18px;
     }
+  .menu-bit {
+    width: 29%;
+    padding: 8%;
+    margin-right: 7% !important;
+    margin-left: 6% !important;
+  }
+    .menu-bit p.title {
+      width: 53%;
+    }
+  p.see-more {
+    width:81%;
+  }
+  .menu-bit p {
+    line-height: 19pt;
+    font-size: 19pt;
+  }
+  .menu-bit p.title {
+    width:66%;
+    font-size:17pt;
+  }
 }
