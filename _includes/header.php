@@ -35,12 +35,13 @@
     <li><a href="/index.php" >Home</a></li>
     <li><span>Our Services</span>
       <ul>
-        <li><a href="/emr.php">EMR / EHR</a></li>
-        <li><a href="/cashflow.php">Practice Analysis</a></li>
-        <li><a href="/coding.php">Patient Payments</a></li>
-        <li><a href="/payments.php">Billing Services</a></li>
-        <li><a href="/credentialling.php">Credentialling</a></li>
-        <li><a href="/credentialling.php">Compliance</a></li>
+        <li><a href="/services.php?tabindex=0">Billing Services</a></li>
+        <li><a href="/services.php?tabindex=1">Patient Payments</a></li>
+        <li><a href="/services.php?tabindex=2">Cash Flow Management</a></li>
+        <li><a href="/services.php?tabindex=3">Document Management</a></li>
+        <li><a href="/services.php?tabindex=4">EMR / EHR</a></li>
+        <li><a href="/services.php?tabindex=5">Auditing Services</a></li>
+        <li><a href="/services.php?tabindex=6">Credentialling</a></li>
         <li><a href="/faq.php">FAQ</a></li>
        </ul>
     </li>
