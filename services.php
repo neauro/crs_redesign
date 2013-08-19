@@ -8,13 +8,13 @@
         <!--Horizontal Tab-->
         <div id="horizontalTab">
             <ul class="resp-tabs-list">
-                <li><img src="_images/billingMenu.png"/></li>
-                <li><img src="_images/patientMenu.png"/></li>
-                <li><img src="_images/cashFlowMenu.png"/></li>
-                <li><img src="_images/docMntMenu.png"/></li>
-                <li><img src="_images/emrMenu.png"/></li>
-                <li><img src="_images/auditingMenu.png"/></li>
-                <li><img src="_images/credentialingMenu.png"/></li>
+                <li><img src="_images/claims_menu.png"/></li>
+                <li><img src="_images/balances_menu.png"/></li>
+                <li><img src="_images/payments_menu.png"/></li>
+                <li><img src="_images/docs_menu.png"/></li>
+                <li><img src="_images/records_menu.png"/></li>
+                <li><img src="_images/regulations_menu.png"/></li>
+                <li><img src="_images/credentials_menu.png"/></li>
             </ul>
             <div class="resp-tabs-container">
                 <div>
@@ -56,14 +56,14 @@
                     </p>
                     <p>Benefits of choosing our Medical Coding Professionals
                     <ul class="tabContent">
-<li>AAPC and HIPAA Certified</li>
-<li>Keep up to date with ICD-9 and CPT codes</li>
-<li>Assign the correct code the first time, helping to recover the maximum revenue in the shortest period of time</li>
-<li>This is Accomplished by not Under or Miscoding the Insurance Submissions</li>
-<li>98% Accuracy and Compliance with all Government Regulations</li>
-<li>Experience-Certified Coders for over 200 Specialties and knowledge to Easily Transition to ICD-10</li>
-<li>With RAC Audits becoming more Frequent it is Important to keep Compliant and use our RAC Certified / Experienced Professionals</li>
-</ul></p>
+                    <li>AAPC and HIPAA Certified</li>
+                    <li>Keep up to date with ICD-9 and CPT codes</li>
+                    <li>Assign the correct code the first time, helping to recover the maximum revenue in the shortest period of time</li>
+                    <li>This is Accomplished by not Under or Miscoding the Insurance Submissions</li>
+                    <li>98% Accuracy and Compliance with all Government Regulations</li>
+                    <li>Experience-Certified Coders for over 200 Specialties and knowledge to Easily Transition to ICD-10</li>
+                    <li>With RAC Audits becoming more Frequent it is Important to keep Compliant and use our RAC Certified / Experienced Professionals</li>
+                    </ul></p>
                 </div>
                 <div>
                     <h1>Credentialing Services</h1>
