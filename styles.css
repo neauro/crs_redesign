@@ -54,7 +54,7 @@ article {
     float:left;
   }
   #right {
-    border:1px solid red;
+    /* border:1px solid red; */
     width:73%;
     margin-left:30px;
     float:left;
@@ -505,17 +505,17 @@ footer {
   .pretty-bit h2 {
     text-align:left;
     font-size:16pt;
-    color: rgba(145, 215, 255, 0.9);
     text-shadow: 1px 1px 1px rgba(37, 38, 39, 0.9);
-    text-transform:uppercase;
+    margin:0;
   }
   .pretty-bit hr {
     border:0;
-    border-top:5px solid #434445;
+    border-top:4px solid #434445;
     width:50%;
-    margin-top:1rem;
+    float:left;
   }
   .pretty-bit p {
+    clear:both;
     width:88%;
     margin:0;
     text-align:left;
@@ -523,9 +523,11 @@ footer {
 
 /**** RWD ****/
 @media (min-width: 1000px) {
+  /*
   body {
     border:1px solid blue;
   }
+  */
   #header h1 span,
   #header ul li {
     display:block;
@@ -561,9 +563,11 @@ footer {
 }
 
 @media screen and (max-width: 999px) {
+  /*
   body {
     border:1px solid green;
   }
+  */
   #contact-header {
     position:static;
     margin-top:1rem;
@@ -612,9 +616,11 @@ footer {
 
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
 @media screen and (max-width: 600px) {
+  /*
   body {
     border:1px solid purple;
   }
+  */
   #icons .menu-bit {
     width:70%;
     padding-bottom:16%;
