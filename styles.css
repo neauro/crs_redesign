@@ -627,5 +627,13 @@ footer {
       opacity:1;
       top:0;
     }
+  .menu-bit p.title {
+    font-size:20pt;
+    line-height:20pt;
+  }
+  .menu-bit p.see-more {
+    left:10px;
+    text-align:left;
+  }
 }
 
