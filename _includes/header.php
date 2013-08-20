@@ -5,7 +5,6 @@
   <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0" />
   <link href="styles.css" rel="stylesheet" type="text/css" media="all" />
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:700,400' rel='stylesheet' type='text/css'>
   <title>Comprehensive Revenue Solutions</title>
 </head>
 

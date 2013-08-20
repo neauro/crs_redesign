@@ -548,7 +548,7 @@ footer {
     top:2.5rem;
   }
   #right {
-    width:66%;
+    width:72%;
   }
   .menu-overlay p {
     line-height:16pt;
@@ -640,6 +640,11 @@ footer {
   .menu-bit p.see-more {
     left:10px;
     text-align:left;
+  }
+  .pretty-bit {
+    display:block;
+    width:100%;
+    margin-bottom:2rem;
   }
 }
 

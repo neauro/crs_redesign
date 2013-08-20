@@ -55,21 +55,12 @@
     <div class="contents">
       <h2>What do we do?</h2>
       <p>We are a dynamic medical billing and cash flow consulting company on the leading edge of technology for electronic medical claims processing (EMR), insurance, and patient billing services. Through an on-site, free analysis of your medical practice, we outline an custom approach to help you recover your annual revenues, while allowing you to transition painlessly to advanced medical billing, electronic medical records, and automated patient payment plans.</p>
-      <!--
-      <p>We value:</p>
-      
-      <ul>
-      <li><strong>Service.</strong> Client service is our number one priority.</li>
-      <li><strong>People.</strong> Our people and teams are empowered to drive our innovation and success.</li>
-      <li><strong>Integrity.</strong> We honor our commitments and hold ourselves to the highest ethical practices.</li>
-      <li><strong>Entrepreneurship.</strong> We accept accountability and remain completely committed to results.</li>
-      </ul> -->
 
       <div id="pretty">
         <div class="pretty-bit">
           <h2>Service</h2>
           <hr/>
-          <p>Client service is out number one priority.</p>
+          <p>Client service is our number one priority.</p>
         </div>
         <div class="pretty-bit">
           <h2>People</h2>
