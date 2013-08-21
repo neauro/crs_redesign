@@ -510,9 +510,6 @@ footer {
 /**** RWD ****/
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
 @media (min-width: 691px) and (max-width: 800px) {
-  body {
-    border:1px solid red;
-  }
   #icons .menu-bit {
     width:30%;
   }
@@ -522,9 +519,6 @@ footer {
   }
 }
 @media (min-width: 601px) and (max-width: 690px) {
-  body {
-    border:1px solid blue;
-  }
   #icons .menu-bit {
     width:46%;
   }
@@ -537,9 +531,6 @@ footer {
     }
 }
 @media screen and (max-width: 600px) {
-  body {
-    border:1px solid green;
-  }
   #icons .menu-bit {
     width:90%;
   }
