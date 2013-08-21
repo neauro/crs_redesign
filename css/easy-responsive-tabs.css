@@ -40,7 +40,19 @@ h2.resp-accordion {
     border: 1px solid #c1c1c1;
     border-bottom: none;
     margin-bottom: -1px !important;
-    padding: 12px 14px 14px 14px !important;
+    padding: 12px 14px 0px 14px !important;
+}
+
+
+
+
+.resp-tab-item {
+    padding: 12px 4px 3px 4px !important;
+}
+
+.resp-tab-item img {
+    padding: 5px !important;
+    background-color: #fff;
 }
 
 .resp-tab-active {

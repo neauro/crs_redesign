@@ -8,13 +8,13 @@
         <!--Horizontal Tab-->
         <div id="horizontalTab">
             <ul class="resp-tabs-list">
-                <li><img src="_images/claims_menu.png"/></li>
-                <li><img src="_images/balances_menu.png"/></li>
-                <li><img src="_images/payments_menu.png"/></li>
-                <li><img src="_images/docs_menu.png"/></li>
-                <li><img src="_images/records_menu.png"/></li>
-                <li><img src="_images/regulations_menu.png"/></li>
-                <li><img src="_images/credentials_menu.png"/></li>
+                <li><img src="_images/Claims.jpg"/></li>
+                <li><img src="_images/Balances.jpg"/></li>
+                <li><img src="_images/Payments.jpg"/></li>
+                <li><img src="_images/Docs.jpg"/></li>
+                <li><img src="_images/Records.jpg"/></li>
+                <li><img src="_images/Regulations.jpg"/></li>
+                <li><img src="_images/Credentials.jpg"/></li>
             </ul>
             <div class="resp-tabs-container">
                 <div>
