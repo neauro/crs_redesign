@@ -315,10 +315,10 @@ footer {
       font-weight:normal;
       color:#222;
       width:100%;
-      -webkit-transition: opacity 0.1s linear, top 0.1s linear;
-         -moz-transition: opacity 0.1s linear, top 0.1s linear;
-           -o-transition: opacity 0.1s linear, top 0.1s linear;
-              transition: opacity 0.1s linear, top 0.1s linear;
+      -webkit-transition: opacity 0.2s linear, left 0.1s linear;
+         -moz-transition: opacity 0.2s linear, left 0.1s linear;
+           -o-transition: opacity 0.2s linear, left 0.1s linear;
+              transition: opacity 0.2s linear, left 0.1s linear;
     }
     .menu-bit p {
       position:absolute;
@@ -333,7 +333,7 @@ footer {
       font-size:18pt;
       line-height: 17pt;
       background-color: rgba(255,255,255,0.8);
-      left:0;
+      left:-10px;
       top:10px;
       height:65px;
       font-weight:300;
@@ -345,6 +345,7 @@ footer {
     }
     .menu-bit:hover p.see-more {
       opacity:1;
+      left:0;
     }
     .menu-bit a {
       color:#646464;
