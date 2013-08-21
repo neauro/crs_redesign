@@ -41,7 +41,6 @@
         <li><a href="/services.php?tabindex=4">EMR / EHR</a></li>
         <li><a href="/services.php?tabindex=5">Auditing Services</a></li>
         <li><a href="/services.php?tabindex=6">Credentialling</a></li>
-        <li><a href="/faq.php">FAQ</a></li>
        </ul>
     </li>
     <li><span>About Us</span>

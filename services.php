@@ -5,6 +5,7 @@
     <script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
   </head>
 <body>
+<div class="services">
         <!--Horizontal Tab-->
         <div id="horizontalTab">
             <ul class="resp-tabs-list">
@@ -156,7 +157,7 @@ The path toward a paperless office begins with our web-based document management
                 </div>
             </div>
         </div>
-      
+</div>      
 
 </body>
 <script type="text/javascript">

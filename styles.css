@@ -506,6 +506,9 @@ footer {
   top:30%;
   right:5px;
 }
+.services {
+  background-color: #E4E4E4;
+}
 
 /**** RWD ****/
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
