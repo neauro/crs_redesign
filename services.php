@@ -18,19 +18,81 @@
             </ul>
             <div class="resp-tabs-container">
                 <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.</p>
+                    <h1>Electronic Medical Billing Services</h1>
+                    <h2>Collecting on Insurer Claims</h2>
+                    <p>A web-based billing management service will help increase your cash flow and improve your bottom line. But managing your own in-house insurance and reimbursement collection process can be costly, demanding hours of valuable staff time.  Spend less time the processing of claims, and more time caring for patients and building your practice.</p>
+                    <p>Benefits of choosing our Billing Service:
+                        <ul class="tabContent">
+                    <li>No Software Purchase Necessary; no upgrade, install, license or administration fees to benefit from real-time system upgrades and access to costly technology without the associated costs.</li>
+
+                    <li>Receive Timely Payments; we maintain a low rejection rates of 2% or less and process most insurance claims, in 21 days or less.</li> 
+
+                    <li>Access Regulatory Changes; knowledge of the latest changes in regulations, technology, and medical coding (including ICD 9 to ICD 10 upgrades). </li>
+
+                    <li>Greater Data Security; remove the worry of losing critical patient billing data housed locally on your hard drive by storing data on our secure servers located in a protected location</li>
+                    </ul>
+                    </p>
                 </div>
                 <div>
-                    <p>This tab has icon in consectetur adipiscing eliconse consectetur adipiscing elit. Vestibulum nibh urna, ctetur adipiscing elit. Vestibulum nibh urna, t.consectetur adipiscing elit. Vestibulum nibh urna,  Vestibulum nibh urna,it.</p>
+                <h1>Patient Payment System</h1>
+                <h2>Outstanding Patient Balances</h2>
+                <p>
+                    Using the web-based software, FirstPaid, we calculate, process, and quickly collect your patient’s payments in a cost-efficient manner. Designed to simplify and accelerate the revenue cycle process, FirstPaid calculates out-of-pocket patients costs, schedules payments, and automates recurring payments on a secure platform. 
+                </p>
+                <p>
+                    Benefits of choosing our Patient Payment Service:
+                    <ul class="tabContent">
+                    <li>Receive faster payment </li>                                                                                 
+                    <li>Reduce operating costs </li>
+                    <li>Quickly determine eligibility Patient's Health  </li> 
+                    <li>Compatible with any HL7 Practice Management System </li>
+                    <li>HIPAA and PCI Compliant</li>
+                </ul>
+                </p>
+
                 </div>
                 <div >
-                    <p>Suspendisse blandit velit Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravid urna gravid eget erat suscipit in malesuada odio venenatis.</p>
-                </div>
-                <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh urna, euismod ut ornare non, volutpat vel tortor. Integer laoreet placerat suscipit. Sed sodales scelerisque commodo. Nam porta cursus lectus. Proin nunc erat, gravida a facilisis quis, ornare id lectus. Proin consectetur nibh quis urna gravida mollis.</p>
-                </div>
-                <div>
+                    <h1>Accounts Receivable Management</h1>
+                    <h2>Noting Past-Due Accounts</h2>
+                    <p>Lingering follow-up on past due accounts is one major issues when managing account receivables. When account is uncollectable it is a costly transition to a collection agency. We are here to help. 
+                    </p>
                     <p>
+                        We use a time-tested, automated recovery process that gently engages with your indebted patient or client before a more direct approach is required. Recover more due accounts quickly and with much  less risk to your valuable patient relationships. You maintain complete control of the process with a detailed daily report through the web-based MaxCollect™ system, and direct contact once your patient initiates payment. Preserve your patient's goodwill and reclaim the profit that is rightfully yours.
+                    </p>
+                    <p>
+                        Benefits of choosing our Accounts Receivable Management:
+                        <ul class="tabContent">
+
+                            <li>MaxCollect™ delivers critical capabilities and fully automated process</li>
+                            <li>Twice the average recovery rate at a third of the cost</li>
+                            <li>Properly written collection letters sent on the business' or Medical Provider's letterhead</li>
+                            <li>Collection contacts and legal steps taken on your behalf by your retained Attorney</li>
+                            <li>You maintain control with detailed reports</li>
+                            <li>Payments are made directly to your business or medical practice</li>
+                            <li>Low cost, patient friendly solution, not a collection agency</li>
+                        </ul>
+                    </p>
+
+                </div>
+                <div>
+                    <h1>Document Management Services</h1>
+                    <h2>Converting to Electronic Docs</h2>
+                    <p>Is your staff overwhelmed managing and retrieving paper documents? 
+The path toward a paperless office begins with our web-based document management tool, iDocsNOW. The web-based tool converts your paper documents into electronic images; simply scan paper files then log into your secure electronic file cabinet to create a fully-searchable electronic filing cabinet. Reduce the amount of paper you buy and eliminate postage, photocopies, fax machines, couriers and off-site storage.
+                    </p>
+                    <p>
+                        Benefits of choosing our Document Management Service :
+                    <ul class="tabContent">
+                    <li>No filing or searching through folders; scan documents once and never print them again. </li>
+                    <li>iDocsNOW provides back-up and recovery system and offers a backup CD each month containing the previous month’s data files</li>
+                    <li>All data is stored in a secure data center with a 256-bit advanced encryption security (AES) used at all times for increased security of stored data and images</li>
+                    <li>iDocsNOW gives the ability to directly e-mail or fax documents</li>
+                    <li>iDocsNOW will help you meet federal privacy and HIPAA security regulations</li>
+
+                    </p>
+                </div>
+                <div>
+                    
                       <h1> EMR / EHR</h1>
                       <h2>We solve your Medical Records Workflow Trauma.</h2>
                     <p>Organizing and keeping track of Medical Records can be a daunting task.  Converting your records to the MediTouch EHR® System, tailored to your office’s existing workflow, will allow you to find records and track them through the entire process from patient visit through insurance payout.
@@ -47,7 +109,7 @@
                     <li>Increased Data Security</li>
                     <li>e-Prescribing, Labs and other common features</li>
                   </ul>
-                  </p>
+                  
                 </div>
                 <div>
                     <h1> Auditing Services</h1>
