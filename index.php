@@ -12,7 +12,7 @@
       <div id="icons">
 
         <div class="menu-bit" style="background-image: url('_images/claims_icon.png');">
-          <a href="payments.php?tabindex=0" class="box"><div class="menu-overlay"><p>Collecting<br/>on Insurer<br/>Claims</p></div></a><p class="title">Billing Services</p><p class="see-more">Learn more about</p>
+          <a href="services.php?tabindex=0" class="box"><div class="menu-overlay"><p>Collecting<br/>on Insurer<br/>Claims</p></div></a><p class="title">Billing Services</p><p class="see-more">Learn more about</p>
         </div>
 
         <div class="menu-bit" style="background-image: url('_images/balances_icon.png');">
