@@ -297,14 +297,12 @@ footer {
     position:relative;
     float: left;
     height: 0;
-    border:1px solid #fff;
-    border-top:1px solid #fff;
-    border-left:1px solid #fff;
-    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
-            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    border:1px solid #ccc;
+    -webkit-border-radius: 2px;
+            border-radius: 2px; 
     margin-bottom:2%;
-    width: 20%;
-    padding-bottom: 14%;
+    width: 21%;
+    padding-bottom: 13%;
     margin-right: 0%;
     margin-left: 3%;
   }
@@ -326,25 +324,25 @@ footer {
       position:absolute;
     }
     .menu-bit span.title {
-      font-size:18pt;
-      line-height: 17pt;
       display:block;
     }
+    .omg-the-actual-words {
+      vertical-align:middle;
+    }
     .menu-bit p.see-more {
+      font-size:18pt;
+      line-height: 17pt;
       background-color: rgba(255,255,255,0.8);
       left:0;
       top:10px;
-      font-size:11pt;
+      height:65px;
       font-weight:300;
       box-sizing:border-box;
       padding:10px;
       opacity:0;
     }
     .menu-bit:hover {
-      -webkit-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
-              box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
     }
-    .menu-bit:hover p.title,
     .menu-bit:hover p.see-more {
       opacity:1;
     }
@@ -421,7 +419,7 @@ footer {
 		}
 		.menu li a:hover,
     .menu ul li:hover a {
-			background: rgba(255, 255, 255, 0.9) url("images/hover.gif") bottom center no-repeat;
+			background: rgba(114, 165, 216, 0.9) url("images/hover.gif") bottom center no-repeat;
 			color:#FFFFFF;
 			text-decoration:none;
     }
@@ -499,6 +497,14 @@ footer {
     margin:0;
     text-align:left;
   }
+
+.caret {
+  font-size:20pt;
+  font-family: "Chau Philomene One";
+  position:absolute;
+  top:30%;
+  right:0;
+}
 
 /**** RWD ****/
 @media (min-width: 1000px) {
