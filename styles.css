@@ -21,11 +21,8 @@ body {
 }
 
 
-h1,
-h2 {
-  font-weight:lighter;
-}
 h1 {
+  font-weight:lighter;
 	font-size: 2.25em;
 	margin-top: 20px; 
 }
@@ -39,12 +36,13 @@ p {
 article {
   margin:0px auto;
   width:95%;
+  max-width:940px;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
   article h1 {
-    margin-bottom: -1rem;
     font-weight:300;
+    margin-bottom:0.5rem;
     color:#222;
     line-height: 28pt;
     margin-left:2rem;
@@ -69,6 +67,7 @@ p.copyright {
 h2 {
 	font-size: 24px;
 	margin-bottom: 10px;
+  font-weight:normal;
 }
 
 h3 {
@@ -133,7 +132,6 @@ img, embed, object, video, iframe {
         }
     #header h1,
     #header h2 {
-      text-shadow: 1px 1px 1px #222;
       font-size: 22pt;
       line-height: 21pt;
       margin-top: 0.3rem;
@@ -143,7 +141,6 @@ img, embed, object, video, iframe {
       margin: 0px auto;
       margin-top: -1rem;
       margin-bottom: 1rem;
-      font-weight:300;
     }
 
 nav {
@@ -292,7 +289,6 @@ footer {
       width:90% !important;
       position:absolute;
       top:-8px;
-      text-shadow: -1px -1px 1px #222;
       -webkit-transition: opacity 0.1s linear, top 0.1s linear;
          -moz-transition: opacity 0.1s linear, top 0.1s linear;
            -o-transition: opacity 0.1s linear, top 0.1s linear;
@@ -338,7 +334,6 @@ footer {
       width:95%;
       text-align:center;
       top:2rem;
-      text-shadow: -1px -1px 1px #222;
       font-weight:normal;
       opacity:0;
       color:#fff;
@@ -386,7 +381,6 @@ footer {
   background-color:#797979;
   padding:10px;
   color:#cdcccc;
-  text-shadow: 1px 1px 1px #504A4A;
   box-sizing:border-box;
   -webkit-box-shadow: inset -6px 1px 9px #4E4E4E;
           box-shadow: inset -6px 1px 9px #4E4E4E;
@@ -434,7 +428,6 @@ footer {
 		padding:0px 25px;
 		text-align:center;
 		text-decoration:none;
-    text-shadow:1px 1px 1px #575757;
     -webkit-transition: background-color 0.1s linear;
        -moz-transition: background-color 0.1s linear;
          -o-transition: background-color 0.1s linear;
@@ -505,7 +498,6 @@ footer {
   .pretty-bit h2 {
     text-align:left;
     font-size:16pt;
-    text-shadow: 1px 1px 1px rgba(37, 38, 39, 0.9);
     margin:0;
   }
   .pretty-bit hr {
@@ -523,128 +515,12 @@ footer {
 
 /**** RWD ****/
 @media (min-width: 1000px) {
-  /*
-  body {
-    border:1px solid blue;
-  }
-  */
-  #header h1 span,
-  #header ul li {
-    display:block;
-  }
-  #envelope {
-    margin-left:0;
-  }
-  #header ul li a {
-    line-height:1rem;
-  }
-  .menu-bit p {
-    line-height:16pt;
-    font-size:13pt;
-  }
-  .menu-bit p.title {
-    font-size:12pt;
-    line-height:14pt;
-    top:2.5rem;
-  }
-  #right {
-    width:72%;
-  }
-  .menu-overlay p {
-    line-height:16pt;
-  }
-  #left {
-    width:22%;
-    margin-bottom:2rem;
-  }
-  #icons .menu-bit {
-    width:21%;
-  }
 }
 
 @media screen and (max-width: 999px) {
-  /*
-  body {
-    border:1px solid green;
-  }
-  */
-  #contact-header {
-    position:static;
-    margin-top:1rem;
-  }
-  #icons .menu-bit {
-    width:6%;
-    margin-left: 1% !important;
-    margin-right: 1% !important;
-    padding-bottom:7%;
-  }
-    #contact-header p {
-      font-size:18px;
-    }
-  .menu-bit {
-    width: 29%;
-    padding: 8%;
-    margin-right: 7% !important;
-    margin-left: 6% !important;
-  }
-    .menu-bit p.title {
-      width: 53%;
-      left:0;
-      top:1rem;
-      left:5px;
-      text-align:left;
-      font-size:14pt;
-      line-height:16pt;
-    }
-    .menu-bit p.see-more {
-      width:81%;
-      top:0;
-    }
-  .menu-bit p {
-    line-height: 16pt;
-    font-size: 13pt;
-  }
-  #left {
-    float: none;
-    width: 100%;
-    margin-bottom: 2rem;
-  }
-  #right {
-    width:94%;
-  }
 }
 
 /* Desktop & Mobile Screens Set to a Width of 600px or Below */
 @media screen and (max-width: 600px) {
-  /*
-  body {
-    border:1px solid purple;
-  }
-  */
-  #icons .menu-bit {
-    width:70%;
-    padding-bottom:16%;
-  }
-  .menu-overlay p {
-    font-size:20pt;
-    line-height:20pt;
-  }
-    .menu-overlay:hover {
-      opacity:1;
-      top:0;
-    }
-  .menu-bit p.title {
-    font-size:20pt;
-    line-height:20pt;
-  }
-  .menu-bit p.see-more {
-    left:10px;
-    text-align:left;
-  }
-  .pretty-bit {
-    display:block;
-    width:100%;
-    margin-bottom:2rem;
-  }
 }
 
