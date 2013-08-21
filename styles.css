@@ -41,7 +41,7 @@ article {
 }
   article h1 {
     font-weight:300;
-    margin-bottom:0.5rem;
+    margin-bottom:0.9rem;
     color:#222;
     line-height: 28pt;
     margin-left:2rem;
@@ -173,7 +173,6 @@ height: 65px;
 
 }
 .menuItemActive {
-  /*border: 2px solid #336699 ;*/
   display: inline-block;
   height: 65px;
 }
@@ -259,7 +258,8 @@ footer {
   overflow:hidden;
 }
   .menu-overlay {
-    background-color: rgba(114, 165, 216, 0.9);
+    /* background-color: rgba(114, 165, 216, 0.9); */
+    background-color: rgba(255, 255, 255, 0.8);
     position:absolute;
     top:0px;
     height:100%;
@@ -284,7 +284,8 @@ footer {
               transition: opacity 0.1s linear, top 0.1s linear;
     }
     .menu-overlay:hover {
-      background-color: rgba(73, 108, 137, 0.9);
+      /* background-color: rgba(73, 108, 137, 0.9); */
+      background-color: rgba(0, 0, 0, 0.5);
     }
     .menu-overlay:hover p {
       opacity:0;
@@ -311,8 +312,9 @@ footer {
       border-left:1px solid rgba(194, 217, 245, 0.5) !important;
     }
     .menu-bit p {
-      font-weight:lighter;
       pointer-events:none;
+      font-weight:normal;
+      color:#222;
       width:100%;
       -webkit-transition: opacity 0.1s linear, top 0.1s linear;
          -moz-transition: opacity 0.1s linear, top 0.1s linear;
@@ -367,9 +369,9 @@ footer {
       }
 
 #footer-desc {
-  background-color:#797979;
+  background-color:#E4E4E4;
   padding:10px;
-  color:#cdcccc;
+  color:#5e5e5e;
   box-sizing:border-box;
   -webkit-box-shadow: inset -6px 1px 9px #4E4E4E;
           box-shadow: inset -6px 1px 9px #4E4E4E;
@@ -424,7 +426,7 @@ footer {
 		}
 		.menu li a:hover,
     .menu ul li:hover a {
-			background: rgba(114, 165, 216, 0.9) url("images/hover.gif") bottom center no-repeat;
+			background: rgba(255, 255, 255, 0.9) url("images/hover.gif") bottom center no-repeat;
 			color:#FFFFFF;
 			text-decoration:none;
     }
@@ -478,11 +480,12 @@ footer {
   margin-bottom:2rem;
 }
 .pretty-bit {
-  width:24%;
+  width:18%;
   display:inline-block;
   margin-bottom:1rem;
   min-height:100px;
   vertical-align:top;
+  margin-right:3.5rem;
 }
   .pretty-bit h2 {
     text-align:left;
@@ -492,7 +495,7 @@ footer {
   .pretty-bit hr {
     border:0;
     border-top:4px solid #434445;
-    width:50%;
+    width:60%;
     float:left;
   }
   .pretty-bit p {
