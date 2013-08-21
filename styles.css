@@ -330,9 +330,7 @@ footer {
     }
     .menu-bit span.title {
       display:block;
-    }
-    .omg-the-actual-words {
-      vertical-align:middle;
+      opacity:0;
     }
     .menu-bit p.see-more {
       font-size:18pt;
@@ -345,9 +343,8 @@ footer {
       padding:10px;
       opacity:0;
     }
-    .menu-bit:hover {
-    }
-    .menu-bit:hover p.see-more {
+    .menu-bit:hover p.see-more,
+    .menu-bit:hover .title{
       opacity:1;
       left:0;
     }

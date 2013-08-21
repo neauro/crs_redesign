@@ -16,7 +16,7 @@
         </a>
         <p class="see-more">
           <span class="title">
-            <span class="omg-the-actual-words">Billing Services</span>
+            Billing Services
             <span class="caret">&gt;</span>
           </span>
         </p>
