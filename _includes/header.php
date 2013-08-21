@@ -45,10 +45,7 @@
     </li>
     <li><span>About Us</span>
             <ul>
-              <li><a href="/credentials
-.php">Credentials</a></li>
               <li><a href="/testimonials.php">Testimonials</a></li>
-              <li><a href="/location.php">Location</a></li>
               <li><a href="/experience.php">Tanya's Experience</a></li>
             </ul>
         </li>

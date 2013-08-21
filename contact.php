@@ -1,12 +1,24 @@
 <?php include("_includes/header.php"); ?>
+<?php include("_includes/header_in.php"); ?>
+<body>
+<div class="testimonials">
+ 
 
-<div id="middle">
-  <article>
+ 
+<h1>Contact Us:</h1>
+<h3> Mailing address: </h3>
+<br/>
+  Comprehensive Revenue Solutions, LLC
+ <br/>Address: City, OR XXXXX
+<h3> Phone: </h3> (888) 698-3999 
+<h3> Fax: </h3> (866) 966-6648
+<h3> e-mail: </h3> trichards@comprevenuesolutions.com
+ 
 
-  <?php include("_includes/header_in.php"); ?>
+</div>
 
-  <h2>Credentialing Services</h2>
-  <p>Comprehensive Revenue Solutions offers credentialing services for your practice.  You no longer have to take the time out of your busy practice keeping up with credentialing applications, re-credentialing and renewal of your credentialing documents.  Let us do the work!</p>
+
+your credentialing documents.  Let us do the work!</p>
 
   <p>Our credentialing experts have over thirteen years of experience and work on the whole range of credentialing services from completing credentialing applications, maintaining your credentials in CAQH to tracking and monitoring your license, registration and certificates.
   <br>If needed, we can also track your CEU’s.</p>
