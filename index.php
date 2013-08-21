@@ -9,7 +9,7 @@
     <div id="icons">
 
       <div class="menu-bit" style="background-image: url('_images/claims_icon.png');">
-        <a href="payments.php?tabindex=0" class="box">
+        <a href="services.php?tabindex=0" class="box">
           <div class="menu-overlay">
             <p>Collecting on Insurer Claims</p>
           </div>
