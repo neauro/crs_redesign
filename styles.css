@@ -297,8 +297,9 @@ footer {
     position:relative;
     float: left;
     height: 0;
-    border-top:1px solid rgba(194, 217, 245, 0.7);
-    border-left:1px solid rgba(194, 217, 245, 0.7);
+    border:1px solid #fff;
+    border-top:1px solid #fff;
+    border-left:1px solid #fff;
     -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
             box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
     margin-bottom:2%;
@@ -321,27 +322,22 @@ footer {
            -o-transition: opacity 0.1s linear, top 0.1s linear;
               transition: opacity 0.1s linear, top 0.1s linear;
     }
-    .menu-bit p.title {
-      width:95%;
-      text-align:center;
-      top:2rem;
-      font-weight:normal;
-      opacity:0;
-      color:#fff;
+    .menu-bit p {
       position:absolute;
-      margin-left:5px;
+    }
+    .menu-bit span.title {
       font-size:18pt;
       line-height: 17pt;
+      display:block;
     }
     .menu-bit p.see-more {
-      position:absolute;
+      background-color: rgba(255,255,255,0.8);
       left:0;
       top:10px;
-      text-align:center;
       font-size:11pt;
       font-weight:300;
-      height:40px;
       box-sizing:border-box;
+      padding:10px;
       opacity:0;
     }
     .menu-bit:hover {
@@ -358,7 +354,6 @@ footer {
     .menu-bit a.box {
       width:100%;
       display:block;
-      height:150px;
       -webkit-transition: opacity 0.2s linear;
          -moz-transition: opacity 0.2s linear;
            -o-transition: opacity 0.2s linear;

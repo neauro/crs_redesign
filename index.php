@@ -9,35 +9,35 @@
     <div id="icons">
 
       <div class="menu-bit" style="background-image: url('_images/claims_icon.png');">
-        <a href="payments.php?tabindex=0" class="box"><div class="menu-overlay"><p>Collecting on Insurer Claims</p></div></a><p class="title">Billing Services</p><p class="see-more">Learn more about</p>
+        <a href="payments.php?tabindex=0" class="box"><div class="menu-overlay"><p>Collecting on Insurer Claims</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Billing Services</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/balances_icon.png');">
-        <a href="services.php?tabindex=1" class="box"><div class="menu-overlay"><p>Outstanding Patient Balances</p></div></a><p class="title">Patient Payment System</p><p class="see-more">Learn more about</p>
+        <a href="services.php?tabindex=1" class="box"><div class="menu-overlay"><p>Outstanding Patient Balances</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Patient Payments</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/payments_icon.png');">
-        <a href="services.php?tabindex=2" class="box"><div class="menu-overlay"><p>Noting Past-due Payments</p></div></a><p class="title">Cash Flow Management</p><p class="see-more">Learn more about</p> 
+        <a href="services.php?tabindex=2" class="box"><div class="menu-overlay"><p>Noting Past-due Payments</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Cash Flow Management</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/docs_icon.png');">
-        <a href="services.php?tabindex=3" class="box"><div class="menu-overlay"><p>Converting to Electronic Documents</p></div></a><p class="title">Document Management</p><p class="see-more">Learn more about</p> 
+        <a href="services.php?tabindex=3" class="box"><div class="menu-overlay"><p>Converting to Electronic Documents</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Document Management</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/records_icon.png');">
-        <a href="services.php?tabindex=4" class="box"><div class="menu-overlay"><p>Finding a Records System</p></div></a><p class="title">EMR System</p><p class="see-more">Learn more about</p> 
+        <a href="services.php?tabindex=4" class="box"><div class="menu-overlay"><p>Finding a Records System</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">EMR System</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/regulations_icon.png');">
-        <a href="services.php?tabindex=5" class="box"><div class="menu-overlay"><p>Complying with Regulations</p></div></a><p class="title">Auditing Services</p><p class="see-more">Learn more about</p> 
+        <a href="services.php?tabindex=5" class="box"><div class="menu-overlay"><p>Complying with Regulations</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Auditing Services</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/credentials_icon.png');">
-        <a href="services.php?tabindex=6" class="box"><div class="menu-overlay"><p>Processing Credentials</p></div></a><p class="title">Credentialing Services</p><p class="see-more">Learn more about</p>
+        <a href="services.php?tabindex=6" class="box"><div class="menu-overlay"><p>Processing Credentials</p></div></a><p class="title"><p class="see-more">Learn more about<span class="title">Credentialing Services</span></p>
       </div>
 
       <div class="menu-bit" style="background-image: url('_images/talking_icon.png');">
-        <a href="contact.php" class="box"><div class="menu-overlay"><p>Talking to The Right Person</p></div></a><p class="title">Contact Us</p><p class="see-more">Learn more about</p> 
+        <a href="contact.php" class="box"><div class="menu-overlay"><p>Talking to The Right Person</p></div></a><p class="title"><p class="see-more">Learn more and<span class="title">Contact us</span></p>
       </div>
 
     </div>
