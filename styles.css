@@ -549,7 +549,7 @@ footer {
 
 
 /*** RWD for header ***/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 990px) {
   #contact-header {
     position:static;
   }
