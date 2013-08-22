@@ -30,7 +30,7 @@
 
 <div class="menu">
   <ul>
-    <li><a href="/index.php" >Home</a></li>
+    <li><a href="index.php" >Home</a></li>
     <li><span>Our Services</span>
       <ul>
         <li><a href="services.php?tabindex=0">Billing Services</a></li>
