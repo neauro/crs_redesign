@@ -1,5 +1,4 @@
 <?php include("_includes/header.php"); ?>
-<?php include("_includes/header_in.php"); ?>
 <body>
 <div class="testimonials">
  

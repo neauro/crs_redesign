@@ -14,8 +14,7 @@
 <!-- Begin Page Wrapper -->
 <div id="header">
   <div class="contents">
-    <!-- <a href="/"><h1>Comprehensive<br/>Revenue<br/>Solutions</h1></a> -->
-    <a href="/"><h1><span>Comprehensive </span><span>Revenue Solutions</span></h1></a>
+    <a href="index.php"><h1><span>Comprehensive </span><span>Revenue Solutions</span></h1></a>
     <h2>A medical billing and cash flow consulting company</h2>
     <div id="contact-header">
       <p>
