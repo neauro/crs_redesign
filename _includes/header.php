@@ -34,22 +34,22 @@
     <li><a href="/index.php" >Home</a></li>
     <li><span>Our Services</span>
       <ul>
-        <li><a href="/services.php?tabindex=0">Billing Services</a></li>
-        <li><a href="/services.php?tabindex=1">Patient Payments</a></li>
-        <li><a href="/services.php?tabindex=2">Cash Flow Management</a></li>
-        <li><a href="/services.php?tabindex=3">Document Management</a></li>
-        <li><a href="/services.php?tabindex=4">EMR / EHR</a></li>
-        <li><a href="/services.php?tabindex=5">Auditing Services</a></li>
-        <li><a href="/services.php?tabindex=6">Credentialling</a></li>
+        <li><a href="services.php?tabindex=0">Billing Services</a></li>
+        <li><a href="services.php?tabindex=1">Patient Payments</a></li>
+        <li><a href="services.php?tabindex=2">Cash Flow Management</a></li>
+        <li><a href="services.php?tabindex=3">Document Management</a></li>
+        <li><a href="services.php?tabindex=4">EMR / EHR</a></li>
+        <li><a href="services.php?tabindex=5">Auditing Services</a></li>
+        <li><a href="services.php?tabindex=6">Credentialling</a></li>
        </ul>
     </li>
     <li><span>About Us</span>
             <ul>
-              <li><a href="/testimonials.php">Testimonials</a></li>
-              <li><a href="/experience.php">Tanya's Experience</a></li>
+              <li><a href="testimonials.php">Testimonials</a></li>
+              <li><a href="experience.php">Tanya's Experience</a></li>
             </ul>
         </li>
-    <li><a href="/contact.php">Contact Us</a></li>
+    <li><a href="contact.php">Contact Us</a></li>
   </ul>
 </div>
 <div id="page">
